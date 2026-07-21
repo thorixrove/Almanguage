@@ -43,7 +43,6 @@ export default {
       ],
       "@clerk/expo",
       "expo-secure-store",
-      "@stream-io/video-react-native-sdk",
       [
         "@config-plugins/react-native-webrtc",
         {
